@@ -1,0 +1,15 @@
+D:\KTT\KTT\KTT\bin\Debug\KTT.exe.config
+D:\KTT\KTT\KTT\bin\Debug\KTT.exe
+D:\KTT\KTT\KTT\bin\Debug\KTT.pdb
+D:\KTT\KTT\KTT\bin\Debug\EntityFramework.dll
+D:\KTT\KTT\KTT\bin\Debug\EntityFramework.SqlServer.dll
+D:\KTT\KTT\KTT\bin\Debug\EntityFramework.xml
+D:\KTT\KTT\KTT\bin\Debug\EntityFramework.SqlServer.xml
+D:\KTT\KTT\KTT\obj\Debug\QLSP.csproj.AssemblyReference.cache
+D:\KTT\KTT\KTT\obj\Debug\KTT.Form_QuanLy.resources
+D:\KTT\KTT\KTT\obj\Debug\KTT.Properties.Resources.resources
+D:\KTT\KTT\KTT\obj\Debug\QLSP.csproj.GenerateResource.cache
+D:\KTT\KTT\KTT\obj\Debug\QLSP.csproj.CoreCompileInputs.cache
+D:\KTT\KTT\KTT\obj\Debug\QLSP.csproj.Up2Date
+D:\KTT\KTT\KTT\obj\Debug\KTT.exe
+D:\KTT\KTT\KTT\obj\Debug\KTT.pdb
